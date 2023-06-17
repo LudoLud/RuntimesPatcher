@@ -58,4 +58,4 @@ Python,Python (ARM64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-arm
 Microsoft Silverlight,Silverlight (x86),https://archive.org/download/silverlight_v5.1.50918_x86/Silverlight.exe,5.1.50918,x86,No
 Microsoft Silverlight,Silverlight (x64),https://web.archive.org/web/20211011230429/https://download.microsoft.com/download/D/D/F/DDF23DF4-0186-495D-AA35-C93569204409/50918.00/Silverlight_x64.exe,5.1.50918,x64,No
 Adobe Shockwave Player,Adobe Shockwave Player,https://archive.org/download/sw_lic_full_installer/sw_lic_full_installer.msi,12.3.5.305,All,No
-Microsoft DirectPlay,DirectPlay,__DISM__,9.29.1974.1,All,No
+DirectPlay,DirectPlay,__DISM__,9.29.1974.1,All,No
