@@ -10,8 +10,8 @@ Visual J# Redistributable,Visual J# Redistributable,https://download.microsoft.c
 Microsoft Agent,DoubleAgent_x64x86,https://downloads.sourceforge.net/project/doubleagent/version_1_2_stable/DoubleAgent_x86.msi?ts=gAAAAABkjc7nuuS-SLOKFqoCWlTWiiKcAihJcrgbEdr_iFui1wWUmeJ00Vm6vxbZv65wZshbswaSHYartBgNLtS170tfphFhBQ%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fdoubleagent%2Ffiles%2Flatest%2Fdownload,1.2.0.56,All,Yes,msi
 Microsoft Agent,Microsoft Agent (Original),https://archive.org/download/microsoft-agent-2.0/MSagent.exe,2.0,All,No,exe
 Microsoft Agent,Microsoft Agent Patch (Vista),https://archive.org/download/msagent_vista/MSAgent.7z,5.2,All,No,7z
-Microsoft Agent,Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,zip
-Microsoft Agent,Speech Recognition Engine,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Recognition%20Engine.exe,4.0,All,No,zip
+Microsoft Agent,Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,exe
+Microsoft Agent,Speech Recognition Engine,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Recognition%20Engine.exe,4.0,All,No,exe
 Microsoft Agent,TTS Language,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FTTS%20Engines%2Flemout%20%26%20hauspie%20truvoice%20text-to-speech%20engine%20-%20us%20english.exe,1.0,All,No,exe
 Microsoft Agent,Characters,https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/MSAgent/chars.zip,1.0,All,No,zip
 Microsoft .NET Framework,NET Framework (7.0.7),https://download.visualstudio.microsoft.com/download/pr/d5d8a7b5-a190-4237-8cc0-6b72d6dd3022/2644b9b70ba39b60e35f6d483d1c9c47/dotnet-hosting-7.0.7-win.exe,7.0.7,All,Yes,exe
