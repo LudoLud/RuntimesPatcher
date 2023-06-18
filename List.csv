@@ -7,7 +7,7 @@ Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com
 Java JRE,Java JRE (x64),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248242_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,x64,Yes,exe
 Java JRE,Java JRE (x86),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248240_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,x86,Yes,exe
 Visual J# Redistributable,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe
-Microsoft Agent,Double Agent,https://downloads.sourceforge.net/project/doubleagent/version_1_2_stable/DoubleAgent_x86.msi?ts=gAAAAABkjc7nuuS-SLOKFqoCWlTWiiKcAihJcrgbEdr_iFui1wWUmeJ00Vm6vxbZv65wZshbswaSHYartBgNLtS170tfphFhBQ%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fdoubleagent%2Ffiles%2Flatest%2Fdownload,1.2.0.56,All,Yes,msi
+Microsoft Agent,DoubleAgent_x64x86,https://downloads.sourceforge.net/project/doubleagent/version_1_2_stable/DoubleAgent_x86.msi?ts=gAAAAABkjc7nuuS-SLOKFqoCWlTWiiKcAihJcrgbEdr_iFui1wWUmeJ00Vm6vxbZv65wZshbswaSHYartBgNLtS170tfphFhBQ%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fdoubleagent%2Ffiles%2Flatest%2Fdownload,1.2.0.56,All,Yes,msi
 Microsoft Agent,Microsoft Agent (Original),https://archive.org/download/microsoft-agent-2.0/MSagent.exe,2.0,All,No,exe
 Microsoft Agent,Microsoft Agent Patch (Vista),https://archive.org/download/msagent_vista/MSAgent.7z,5.2,All,No,7z
 Microsoft Agent,Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,zip
@@ -38,7 +38,7 @@ Microsoft .NET Framework,NET Core (2.0.9),https://download.microsoft.com/downloa
 Microsoft .NET Framework,NET Core (1.1.13 + 1.0.16),https://download.visualstudio.microsoft.com/download/pr/85188c51-c71f-442e-ae3a-f46449564959/690b9e12e7da159576f67afd986b873d/dotnetcore.1.0.16_1.1.13-windowshosting.exe,1.1.13,All,No,exe
 OpenAL,OpenAL,https://www.openal.org/downloads/oalinst.zip,1.1,All,Yes,zip
 NTVDM,OTVDM,https://github.com/otya128/winevdm/releases/download/v0.8.0/otvdm-v0.8.1.zip,0.8.1,x64,Yes,zip
-NTVDM,NTVDMx64,https://web.archive.org/web/20230209051154/http://www.columbia.edu/~em36/ntvdmx64-ccpu-fre.7z,07.04.2023,x64,Yes,zip
+NTVDM,NTVDMx64,https://web.archive.org/web/20220401195823if_/http://www.columbia.edu/~em36/ntvdmx64-ccpu-fre.7z,07.04.2023,x64,Yes,7z
 NVIDIA PhysX Engine,NVIDIA PhysX Engine,https://fr.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe,9.19.0218,All,Yes,exe
 PowerShell,PowerShell (x64),https://github.com/PowerShell/PowerShell/releases/download/v7.3.4/PowerShell-7.3.4-win-x64.msi,7.3.4,x64,Yes,msi
 PowerShell,PowerShell (x86),https://github.com/PowerShell/PowerShell/releases/download/v7.3.4/PowerShell-7.3.4-win-x86.msi,7.3.4,x86,Yes,msi
