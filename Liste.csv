@@ -78,6 +78,8 @@ Visual Basic,Visual Basic 6.0,https://archive.org/download/Win98seMEupd/w98semeu
 Visual Basic,Visual Basic 6.0 SP6,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%206.0%20Runtime%2FUpdates%2FVB6.0-KB290887-X86.exe,6.6,All,No,exe
 Visual C++,Visual C++ AIO,https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64.exe,0.73.0,All,Yes,exe
 Visual J# Redistributable,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe
-Windows Media Encoder 9,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe
+Windows Media Center & Optical Features,Windows 10 DVD Player,https://garyan2.github.io/downloads/Win10/windows10.0-kb3106246-x64.msi,KB3106246,All,Yes,msi
+Windows Media Center & Optical Features,Windows Media Center,https://objects.githubusercontent.com/github-production-release-asset-2e65be/458884000/09ba81ba-21a5-4f08-8c3f-996a30c955e2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230620T172031Z&X-Amz-Expires=300&X-Amz-Signature=3fca94ee079e48b7faa0a85d42205d7d882fb9791197296ea401dcbea7866466&X-Amz-SignedHeaders=host&actor_id=62658994&key_id=0&repo_id=458884000&response-content-disposition=attachment%3B%20filename%3Dwmcsetup-x64.msi&response-content-type=application%2Foctet-stream,8.9.1,All,yes,msi
+Windows Media Encoder,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe
 XNA Framework,Microsoft XNA Framework,https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi,4.0.30901.0,All,No,msi
 XPS Viewer,XPS Viewer,__DISM__,10.0.22621.608,All,Yes,-
