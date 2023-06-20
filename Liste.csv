@@ -1,19 +1,16 @@
 /!\ Runtimes Updater /!\,Runtimes Patcher,-,a0.0.1,All,Yes,exe
 Adobe Air,Adobe Air,https://www.techspot.com/downloads/downloadnowfile/5059/?evp=955556a5d164f1315890717d85553a53&file=5402,50.2.1.1,All,No,exe
 Adobe Flash Player,Adobe Flash Player,https://web.archive.org/web/20230607055952if_/https://bluepload.unstable.life/selif/cleanflash3400282installer1.exe,34.0.0.282,All,Yes,exe
+Adobe Shockwave Player,Adobe Shockwave Player,https://archive.org/download/sw_lic_full_installer/sw_lic_full_installer.msi,12.3.5.305,All,No,msi
+DirectPlay,DirectPlay,__DISM__,9.29.1974.1,All,No,-
 DirectX End-User,DirectX,https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe,9.29.1974.1,All,Yes,exe
+Font Pack,Fonts Bundle,https://download2389.mediafire.com/c8n3l11hg9tg34J3kMXMqn_3Li-mT4xKbcXKBGSstemG5w-jmUl8Ynn8cqv5TmgruC8eZ92CbTjKGWNyiq55NMN61QkVmfAttWBgVg4DL-V4Zxbsgk-0TbUxcTB73WxyuhEiyRYgVxqTYzDaakgTFRLdIxlvTI_JbogbxmOKVOnW2w/izo2kwoxo1ysxq2/2500%2B+Fonts+Bundle+by+SpeedySense.com.zip,29.12.2019,All,Yes,zip
+Font Pack,Firefox Fira,https://svn.reactos.org/packages/Fira.exe,3.206,All,No,exe
 Games For Windows Live,Games For Windows Live (Client),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/gfwlclient.msi,3.5.67.0,All,No,msi
 Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/xliveredist.msi,3.5.95.0,All,No,msi
 Java JRE,Java JRE (x64),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248242_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,x64,Yes,exe
 Java JRE,Java JRE (x86),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248240_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,x86,Yes,exe
-Visual J# Redistributable,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe
-Microsoft Agent,DoubleAgent_x64x86,https://downloads.sourceforge.net/project/doubleagent/version_1_2_stable/DoubleAgent_x86.msi?ts=gAAAAABkjc7nuuS-SLOKFqoCWlTWiiKcAihJcrgbEdr_iFui1wWUmeJ00Vm6vxbZv65wZshbswaSHYartBgNLtS170tfphFhBQ%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fdoubleagent%2Ffiles%2Flatest%2Fdownload,1.2.0.56,All,Yes,msi
-Microsoft Agent,Microsoft Agent (Original),https://archive.org/download/microsoft-agent-2.0/MSagent.exe,2.0,All,No,exe
-Microsoft Agent,Microsoft Agent Patch (Vista),https://archive.org/download/msagent_vista/MSAgent.7z,5.2,All,No,7z
-Microsoft Agent,Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,exe
-Microsoft Agent,Speech Recognition Engine,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Recognition%20Engine.exe,4.0,All,No,exe
-Microsoft Agent,TTS Language,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FTTS%20Engines%2Flemout%20%26%20hauspie%20truvoice%20text-to-speech%20engine%20-%20us%20english.exe,1.0,All,No,exe
-Microsoft Agent,Characters,https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/MSAgent/chars.zip,1.0,All,No,zip
+Mesa3D Graphics,Mesa3D,https://svn.reactos.org/packages/mesa3d_setup.exe,14.03.2017,All,No,exe
 Microsoft .NET Framework,NET Framework (7.0.7),https://download.visualstudio.microsoft.com/download/pr/d5d8a7b5-a190-4237-8cc0-6b72d6dd3022/2644b9b70ba39b60e35f6d483d1c9c47/dotnet-hosting-7.0.7-win.exe,7.0.7,All,Yes,exe
 Microsoft .NET Framework,NET Framework (7.0.7 - arm64),https://download.visualstudio.microsoft.com/download/pr/00f57df4-c604-46e1-8d32-f87a77f1d233/cd28e125d6f777c6d567a344da1fff2d/windowsdesktop-runtime-7.0.7-win-arm64.exe,7.0.7,ARM64,Yes,exe
 Microsoft .NET Framework,NET Framework (7.0.7 - x64),https://download.visualstudio.microsoft.com/download/pr/342ba160-3776-4ffa-91dd-e3cd9dc0f817/ba649d6b80b27ca164d80bd488cdb51f/windowsdesktop-runtime-7.0.7-win-x64.exe,7.0.7,x64,Yes,exe
@@ -36,12 +33,40 @@ Microsoft .NET Framework,NET Core (2.2.8),https://download.visualstudio.microsof
 Microsoft .NET Framework,NET Core (2.1.30),https://download.visualstudio.microsoft.com/download/pr/cf7b17e3-ed6d-4ded-8ae6-9f83ffaaca98/9d2ca844baa4a4a9ed83861ffc8e293e/dotnet-hosting-2.1.30-win.exe,2.1.30,All,No,exe
 Microsoft .NET Framework,NET Core (2.0.9),https://download.microsoft.com/download/3/a/3/3a3bda26-560d-4d8e-922e-6f6bc4553a84/DotNetCore.2.0.9-WindowsHosting.exe,2.0.9,All,No,exe
 Microsoft .NET Framework,NET Core (1.1.13 + 1.0.16),https://download.visualstudio.microsoft.com/download/pr/85188c51-c71f-442e-ae3a-f46449564959/690b9e12e7da159576f67afd986b873d/dotnetcore.1.0.16_1.1.13-windowshosting.exe,1.1.13,All,No,exe
-OpenAL,OpenAL,https://www.openal.org/downloads/oalinst.zip,1.1,All,Yes,zip
+Microsoft Access Runtime,Access 2007,https://cdn.discordapp.com/attachments/1120554587758276678/1120554702040473660/AccessRuntime2007.exe,12.0.4518.1049,All,No,exe
+Microsoft Access Runtime,Access 2010 (x86),https://download.microsoft.com/download/2/6/0/260AA63A-A275-4A92-950D-CE20B490D0B9/AccessRuntime.exe,14.0.4763.1000,x86,No,exe
+Microsoft Access Runtime,Access 2010 (x64),https://download.microsoft.com/download/2/6/0/260AA63A-A275-4A92-950D-CE20B490D0B9/AccessRuntime_X64.exe,14.0.4763.1000,x64,No,exe
+Microsoft Access Runtime,Access 2016 (x86),https://download.microsoft.com/download/D/B/D/DBD20EF9-A945-4768-AEB0-617BCEA2214A/accessruntime_4288-1001_x86_en-us.exe,16.0.16501.20210,x86,Yes,exe
+Microsoft Access Runtime,Access 2016 (x64),https://download.microsoft.com/download/D/B/D/DBD20EF9-A945-4768-AEB0-617BCEA2214A/accessruntime_4288-1001_x64_en-us.exe,16.0.16501.20210,x64,Yes,exe
+Microsoft Agent,DoubleAgent_x64x86,https://downloads.sourceforge.net/project/doubleagent/version_1_2_stable/DoubleAgent_x86.msi?ts=gAAAAABkjc7nuuS-SLOKFqoCWlTWiiKcAihJcrgbEdr_iFui1wWUmeJ00Vm6vxbZv65wZshbswaSHYartBgNLtS170tfphFhBQ%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fdoubleagent%2Ffiles%2Flatest%2Fdownload,1.2.0.56,All,Yes,msi
+Microsoft Agent,Microsoft Agent (Original),https://archive.org/download/microsoft-agent-2.0/MSagent.exe,2.0,All,No,exe
+Microsoft Agent,Microsoft Agent Patch (Vista),https://archive.org/download/msagent_vista/MSAgent.7z,5.2,All,No,7z
+Microsoft Agent,Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,exe
+Microsoft Agent,Speech Recognition Engine,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Recognition%20Engine.exe,4.0,All,No,exe
+Microsoft Agent,TTS Language,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FTTS%20Engines%2Flemout%20%26%20hauspie%20truvoice%20text-to-speech%20engine%20-%20us%20english.exe,1.0,All,No,exe
+Microsoft Agent,Characters,https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/MSAgent/chars.zip,1.0,All,No,zip
+Microsoft Jet,Jet 4.0 SP8,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/4/3/9/4393c9ac-e69e-458d-9f6d-2fe191c51469/Jet40SP8_9xNT.exe,4.0.800,All,No,exe
+Microsoft Layer for Unicode,Microsoft Layer for Unicode,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/b/7/5/b75eace3-00e2-4aa0-9a6f-0b6882c71642/unicows.exe,1.1.3790.0,All,No,exe
+Microsoft Report Viewer,Report Viewer 2005,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/6/e/d/6eda0f6a-4fb3-4880-bd96-fe71d7c12aa0/ReportViewer.exe,2.0.50727.817,All,No,exe
+Microsoft Report Viewer,Report Viewer 2008,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/3/a/e/3aeb7a63-ade6-48c2-9b6a-d3b6bed17fe9/ReportViewer.exe,9.0.30729.01,All,No,exe
+Microsoft Report Viewer,Report Viewer 2010,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/5/B/9/5B95F704-F7E3-440D-8C68-A88635EA4F87/ReportViewer.exe,10.0.40220,All,No,exe
+Microsoft Report Viewer,Report Viewer 2015,https://download.microsoft.com/download/A/1/2/A129F694-233C-4C7C-860F-F73139CF2E01/ENU/x86/ReportViewer.msi,12.0.2402.15,All,Yes,msi
+Microsoft Report Viewer,Microsoft® System CLR Types for Microsoft® SQL Server® 2014 (x86),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x86/SQLSysClrTypes.msi,12.0.2402,All,No,msi
+Microsoft Report Viewer,Microsoft® System CLR Types for Microsoft® SQL Server® 2014 (x64),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x64/SQLSysClrTypes.msi,12.0.2402,All,No,msi
+MSXML,MSXML3,https://archive.org/download/msxml3/msxml3.msi,3.7,All,No,msi
+MSXML,MSXML4,https://web.archive.org/web/20181216132744/https://www.microsoft.com/en-gb/download/confirmation.aspx?id=15697&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1,4.30.2100.0,All,No,msi
 NTVDM,OTVDM,https://github.com/otya128/winevdm/releases/download/v0.8.0/otvdm-v0.8.1.zip,0.8.1,x64,Yes,zip
 NTVDM,NTVDMx64,https://web.archive.org/web/20220401195823if_/http://www.columbia.edu/~em36/ntvdmx64-ccpu-fre.7z,07.04.2023,x64,Yes,7z
 NVIDIA PhysX Engine,NVIDIA PhysX Engine,https://fr.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe,9.19.0218,All,Yes,exe
+OLE Viewer / MFCv4,OLEMFCv4,https://svn.reactos.org/packages/OLE2V.EXE,2.0,All,No,msi
+OpenAL,OpenAL,https://www.openal.org/downloads/oalinst.zip,1.1,All,Yes,zip
 PowerShell,PowerShell (x64),https://github.com/PowerShell/PowerShell/releases/download/v7.3.4/PowerShell-7.3.4-win-x64.msi,7.3.4,x64,Yes,msi
 PowerShell,PowerShell (x86),https://github.com/PowerShell/PowerShell/releases/download/v7.3.4/PowerShell-7.3.4-win-x86.msi,7.3.4,x86,Yes,msi
+Python,Python (x86),https://www.python.org/ftp/python/3.11.4/python-3.11.4.exe,3.11.4,x86,Yes,exe
+Python,Python (x64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe,3.11.4,x64,Yes,exe
+Python,Python (ARM64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-arm64.exe,3.11.4,ARM64,Yes,exe
+Silverlight,Silverlight (x86),https://archive.org/download/silverlight_v5.1.50918_x86/Silverlight.exe,5.1.50918,x86,No,exe
+Silverlight,Silverlight (x64),https://web.archive.org/web/20211011230429/https://download.microsoft.com/download/D/D/F/DDF23DF4-0186-495D-AA35-C93569204409/50918.00/Silverlight_x64.exe,5.1.50918,x64,No,exe
 Unity Web Player,Unity Web Player,https://archive.org/download/unity-web-player-offline-installers/5.3.x%20%5B8%20Dec%2C%202015%20-%2013%20Mar%2C%202017%5D.zip/ClosedNetworkPlayer_5.3.8f2%2FUnityWebPlayerDevelopment.exe,5.3.8f2,All,No,exe
 Visual Basic,Visual Basic Classics (1.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun100.exe,1.0,All,No,exe
 Visual Basic,Visual Basic Classics (2.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun200.exe,2.0,All,No,exe
@@ -51,11 +76,7 @@ Visual Basic,Visual Basic 5.0,https://archive.org/download/Win98seMEupd/w98semeu
 Visual Basic,Visual Basic 6.0,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%206.0%20Runtime%2Fvbrun60.exe,6.0,All,No,exe
 Visual Basic,Visual Basic 6.0 SP6,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%206.0%20Runtime%2FUpdates%2FVB6.0-KB290887-X86.exe,6.6,All,No,exe
 Visual C++,Visual C++ AIO,https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64.exe,0.73.0,All,Yes,exe
+Visual J# Redistributable,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe
+Windows Media Encoder 9,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,All,No,exe
 XNA Framework,Microsoft XNA Framework,https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi,4.0.30901.0,All,No,msi
-Python,Python (x86),https://www.python.org/ftp/python/3.11.4/python-3.11.4.exe,3.11.4,x86,Yes,exe
-Python,Python (x64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe,3.11.4,x64,Yes,exe
-Python,Python (ARM64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-arm64.exe,3.11.4,ARM64,Yes,exe
-Silverlight,Silverlight (x86),https://archive.org/download/silverlight_v5.1.50918_x86/Silverlight.exe,5.1.50918,x86,No,exe
-Silverlight,Silverlight (x64),https://web.archive.org/web/20211011230429/https://download.microsoft.com/download/D/D/F/DDF23DF4-0186-495D-AA35-C93569204409/50918.00/Silverlight_x64.exe,5.1.50918,x64,No,exe
-Adobe Shockwave Player,Adobe Shockwave Player,https://archive.org/download/sw_lic_full_installer/sw_lic_full_installer.msi,12.3.5.305,All,No,msi
-DirectPlay,DirectPlay,__DISM__,9.29.1974.1,All,No,-
+XPS Viewer,XPS Viewer,__DISM__,10.0.22621.608,All,Yes,-
