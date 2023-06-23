@@ -2,6 +2,7 @@
 Adobe Player Suite,Adobe Air,https://www.techspot.com/downloads/downloadnowfile/5059/?evp=955556a5d164f1315890717d85553a53&file=5402,50.2.1.1,All,No,exe
 Adobe Player Suite,Adobe Flash Player,https://web.archive.org/web/20230607055952if_/https://bluepload.unstable.life/selif/cleanflash3400282installer1.exe,34.0.0.282,All,Yes,exe
 Adobe Player Suite,Adobe Shockwave Player,https://archive.org/download/sw_lic_full_installer/sw_lic_full_installer.msi,12.3.5.305,All,No,msi
+Component Explorer Suite,OLEMFCv4,https://svn.reactos.org/packages/OLE2V.EXE,2.0,All,No,EXE
 DirectX End-User,DirectX,https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe,9.29.1974.1,All,Yes,exe
 Fonts Suite,Fonts Bundle,https://download2389.mediafire.com/c8n3l11hg9tg34J3kMXMqn_3Li-mT4xKbcXKBGSstemG5w-jmUl8Ynn8cqv5TmgruC8eZ92CbTjKGWNyiq55NMN61QkVmfAttWBgVg4DL-V4Zxbsgk-0TbUxcTB73WxyuhEiyRYgVxqTYzDaakgTFRLdIxlvTI_JbogbxmOKVOnW2w/izo2kwoxo1ysxq2/2500%2B+Fonts+Bundle+by+SpeedySense.com.zip,29.12.2019,All,Yes,zip
 Fonts Suite,Firefox Fira,https://svn.reactos.org/packages/Fira.exe,3.206,All,No,exe
@@ -61,7 +62,6 @@ MSXML,MSXML4,https://web.archive.org/web/20200803205319/https://download.microso
 NTVDM,OTVDM,https://github.com/otya128/winevdm/releases/download/v0.8.0/otvdm-v0.8.1.zip,0.8.1,x64,Yes,zip
 NTVDM,NTVDMx64,https://web.archive.org/web/20220401195823if_/http://www.columbia.edu/~em36/ntvdmx64-ccpu-fre.7z,07.04.2023,x64,Yes,7z
 NVIDIA PhysX Engine,NVIDIA PhysX Engine,https://fr.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe,9.19.0218,All,Yes,exe
-OLE Viewer / MFCv4,OLEMFCv4,https://svn.reactos.org/packages/OLE2V.EXE,2.0,All,No,EXE
 OpenAL,OpenAL,https://www.openal.org/downloads/oalinst.zip,1.1,All,Yes,zip
 PowerShell,PowerShell (x64),https://github.com/PowerShell/PowerShell/releases/download/v7.3.4/PowerShell-7.3.4-win-x64.msi,7.3.4,x64,Yes,msi
 PowerShell,PowerShell (x86),https://github.com/PowerShell/PowerShell/releases/download/v7.3.4/PowerShell-7.3.4-win-x86.msi,7.3.4,x86,Yes,msi
@@ -81,8 +81,8 @@ Visual Studio Suite,Visual Basic 6.0,https://archive.org/download/Win98seMEupd/w
 Visual Studio Suite,Visual Basic 6.0 SP6,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%206.0%20Runtime%2FUpdates%2FVB6.0-KB290887-X86.exe,6.6,All,No,exe
 Visual Studio Suite,Visual C++ AIO,https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64.exe,0.73.0,All,Yes,exe
 Visual Studio Suite,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe
-Windows Features,Windows Features,__DISM__,-,All,No,-
-Windows Media Center and DVD Features,Windows 10 DVD Player,https://cdn.discordapp.com/attachments/1024893564276183070/1120793404796837888/DVDW10.appxbundle,3.6.13291,All,Yes,AppxBundle
-Windows Media Center and DVD Features,Windows Media Center,https://github.com/garyan2/wmcsetup/releases/download/v8.9.1/wmcsetup-x64.msi,8.9.1,All,Yes,msi
-Windows Media Center and DVD Features,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe
+Windows Enhancement Pack,Windows Features,__DISM__,-,All,No,-
+Windows Media Suite,Windows 10 DVD Player,https://cdn.discordapp.com/attachments/1024893564276183070/1120793404796837888/DVDW10.appxbundle,3.6.13291,All,Yes,AppxBundle
+Windows Media Suite,Windows Media Center,https://github.com/garyan2/wmcsetup/releases/download/v8.9.1/wmcsetup-x64.msi,8.9.1,All,Yes,msi
+Windows Media Suite,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe
 XNA Framework,Microsoft XNA Framework,https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi,4.0.30901.0,All,No,msi
