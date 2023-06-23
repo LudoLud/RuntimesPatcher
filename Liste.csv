@@ -8,7 +8,6 @@ Fonts Pack,Fonts Bundle,https://download2389.mediafire.com/c8n3l11hg9tg34J3kMXMq
 Fonts Pack,Firefox Fira,https://svn.reactos.org/packages/Fira.exe,3.206,All,No,exe
 Games For Windows Live,Games For Windows Live (Client),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/gfwlclient.msi,3.5.67.0,All,No,msi
 Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/xliveredist.msi,3.5.95.0,All,No,msi
-IrDA Infrared Feature,IrDA Infrared Feature,__DISM__,-,All,No,-
 Java JRE,Java JRE (x64),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248242_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,x64,Yes,exe
 Java JRE,Java JRE (x86),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248240_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,x86,Yes,exe
 Mesa3D Graphics,Mesa3D,https://svn.reactos.org/packages/mesa3d_setup.exe,14.03.2017,All,No,exe
@@ -80,8 +79,8 @@ Visual Basic,Visual Basic 6.0,https://archive.org/download/Win98seMEupd/w98semeu
 Visual Basic,Visual Basic 6.0 SP6,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%206.0%20Runtime%2FUpdates%2FVB6.0-KB290887-X86.exe,6.6,All,No,exe
 Visual C++,Visual C++ AIO,https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64.exe,0.73.0,All,Yes,exe
 Visual J# Redistributable,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe
+Windows Features,Windows Features,__DISM__,-,All,No,-
 Windows Media Center & DVD Features,Windows 10 DVD Player,https://cdn.discordapp.com/attachments/1024893564276183070/1120793404796837888/DVDW10.appxbundle,3.6.13291,All,Yes,AppxBundle
 Windows Media Center & DVD Features,Windows Media Center,https://github.com/garyan2/wmcsetup/releases/download/v8.9.1/wmcsetup-x64.msi,8.9.1,All,Yes,msi
-Windows Media Encoder,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe
+Windows Media Center & DVD Features,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe
 XNA Framework,Microsoft XNA Framework,https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi,4.0.30901.0,All,No,msi
-XPS Viewer,XPS Viewer,__DISM__,10.0.22621.608,All,Yes,-
