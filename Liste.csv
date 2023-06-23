@@ -11,7 +11,7 @@ Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com
 Graphics Compute Suite,OpenCL™ and OpenGL® Compatibility Pack,https://cdn.discordapp.com/attachments/1120554587758276678/1120789661871259728/D3D.zip,1.2302.1.0,All,Yes,zip,
 Graphics Compute Suite,Mesa3D,https://svn.reactos.org/packages/mesa3d_setup.exe,14.03.2017,All,No,exe,
 Java JRE,Java JRE (x64),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248242_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,All,Yes,exe,/s
-Java JRE,Java JRE (x86),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248240_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,All,Yes,exe/s
+Java JRE,Java JRE (x86),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248240_ce59cff5c23f4e2eaf4e778a117d4c5b,8u371,All,Yes,exe,/s
 Microsoft .NET Framework,NET Framework (7.0.7),https://download.visualstudio.microsoft.com/download/pr/d5d8a7b5-a190-4237-8cc0-6b72d6dd3022/2644b9b70ba39b60e35f6d483d1c9c47/dotnet-hosting-7.0.7-win.exe,7.0.7,All,Yes,exe,/install /quiet /norestart
 Microsoft .NET Framework,NET Framework (7.0.7 - arm64),https://download.visualstudio.microsoft.com/download/pr/00f57df4-c604-46e1-8d32-f87a77f1d233/cd28e125d6f777c6d567a344da1fff2d/windowsdesktop-runtime-7.0.7-win-arm64.exe,7.0.7,ARM64,Yes,exe,/install /quiet /norestart
 Microsoft .NET Framework,NET Framework (7.0.7 - x64),https://download.visualstudio.microsoft.com/download/pr/342ba160-3776-4ffa-91dd-e3cd9dc0f817/ba649d6b80b27ca164d80bd488cdb51f/windowsdesktop-runtime-7.0.7-win-x64.exe,7.0.7,x64,Yes,exe,/install /quiet /norestart
