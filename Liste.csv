@@ -58,7 +58,7 @@ Mono Project,Mono (x86),https://download.mono-project.com/archive/6.12.0/windows
 Mono Project,Mono (x64),https://download.mono-project.com/archive/6.12.0/windows-installer/mono-6.12.0.199-x64-0.msi,6.12.0,All,Yes,msi
 Mono Project,Mono (GTK),https://github.com/mono/gtk-sharp/releases/download/2.12.45/gtk-sharp-2.12.45.msi,6.12.0,All,Yes,msi
 MSXML,MSXML3,https://archive.org/download/msxml3/msxml3.msi,3.7,All,No,msi
-MSXML,MSXML4,https://web.archive.org/web/20200803205319/https://download.microsoft.com/download/A/2/D/A2D8587D-0027-4217-9DAD-38AFDB0A177E/msxml.msi,4.30.2100.0,All,No,msi
+MSXML,MSXML4,https://cdn.discordapp.com/attachments/1120554587758276678/1121897967369076897/msxml.msi,4.30.2100.0,All,No,msi
 NTVDM,OTVDM,https://github.com/otya128/winevdm/releases/download/v0.8.0/otvdm-v0.8.1.zip,0.8.1,x64,Yes,zip
 NTVDM,NTVDMx64,https://web.archive.org/web/20220401195823if_/http://www.columbia.edu/~em36/ntvdmx64-ccpu-fre.7z,07.04.2023,x64,Yes,7z
 NVIDIA PhysX Engine,NVIDIA PhysX Engine,https://fr.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe,9.19.0218,All,Yes,exe
@@ -69,7 +69,7 @@ Python,Python (x86),https://www.python.org/ftp/python/3.11.4/python-3.11.4.exe,3
 Python,Python (x64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe,3.11.4,x64,Yes,exe
 Python,Python (ARM64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-arm64.exe,3.11.4,ARM64,Yes,exe
 Silverlight,Silverlight (x86),https://archive.org/download/silverlight_v5.1.50918_x86/Silverlight.exe,5.1.50918,x86,No,exe
-Silverlight,Silverlight (x64),https://web.archive.org/web/20211011230429/https://download.microsoft.com/download/D/D/F/DDF23DF4-0186-495D-AA35-C93569204409/50918.00/Silverlight_x64.exe,5.1.50918,x64,No,exe
+Silverlight,Silverlight (x64),https://cdn.discordapp.com/attachments/1120554587758276678/1121897967033528320/Silverlight_x64.exe,5.1.50918,x64,No,exe
 Unity Web Player,Unity Web Player,https://archive.org/download/unity-web-player-offline-installers/5.3.x%20%5B8%20Dec%2C%202015%20-%2013%20Mar%2C%202017%5D.zip/ClosedNetworkPlayer_5.3.8f2%2FUnityWebPlayerDevelopment.exe,5.3.8f2,All,No,exe
 Visual Studio Suite,Visual Basic Classics (1.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun100.exe,1.0,All,No,exe
 Visual Studio Suite,Visual Basic Classics (2.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun200.exe,2.0,All,No,exe
