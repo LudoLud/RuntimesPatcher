@@ -71,7 +71,6 @@ Python,Python (ARM64),https://www.python.org/ftp/python/3.11.4/python-3.11.4-arm
 Silverlight,Silverlight (x86),https://archive.org/download/silverlight_v5.1.50918_x86/Silverlight.exe,5.1.50918,x86,No,exe
 Silverlight,Silverlight (x64),https://web.archive.org/web/20211011230429/https://download.microsoft.com/download/D/D/F/DDF23DF4-0186-495D-AA35-C93569204409/50918.00/Silverlight_x64.exe,5.1.50918,x64,No,exe
 Unity Web Player,Unity Web Player,https://archive.org/download/unity-web-player-offline-installers/5.3.x%20%5B8%20Dec%2C%202015%20-%2013%20Mar%2C%202017%5D.zip/ClosedNetworkPlayer_5.3.8f2%2FUnityWebPlayerDevelopment.exe,5.3.8f2,All,No,exe
-Video/Images Extension,VIExt,https://cdn.discordapp.com/attachments/1120554587758276678/1120789397424578610/VIExt.zip,MSSTORE,All,Yes,zip
 Visual Studio Suite,Visual Basic Classics (1.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun100.exe,1.0,All,No,exe
 Visual Studio Suite,Visual Basic Classics (2.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun200.exe,2.0,All,No,exe
 Visual Studio Suite,Visual Basic Classics (3.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun300.exe,3.0,All,No,exe
@@ -85,4 +84,5 @@ Windows Enhancement Pack,Windows Features,__DISM__,-,All,No,-
 Windows Media Suite,Windows 10 DVD Player,https://cdn.discordapp.com/attachments/1024893564276183070/1120793404796837888/DVDW10.appxbundle,3.6.13291,All,Yes,AppxBundle
 Windows Media Suite,Windows Media Center,https://github.com/garyan2/wmcsetup/releases/download/v8.9.1/wmcsetup-x64.msi,8.9.1,All,Yes,msi
 Windows Media Suite,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe
+Windows Media Suite,VIExt,https://cdn.discordapp.com/attachments/1120554587758276678/1120789397424578610/VIExt.zip,MSSTORE,All,Yes,zip
 XNA Framework,Microsoft XNA Framework,https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi,4.0.30901.0,All,No,msi
