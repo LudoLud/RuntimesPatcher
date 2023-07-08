@@ -52,15 +52,15 @@ Microsoft Report Viewer,Report Viewer 2005,https://web.archive.org/web/202008010
 Microsoft Report Viewer,Report Viewer 2008,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/3/a/e/3aeb7a63-ade6-48c2-9b6a-d3b6bed17fe9/ReportViewer.exe,9.0.30729.01,All,No,exe,/q
 Microsoft Report Viewer,Report Viewer 2010,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/5/B/9/5B95F704-F7E3-440D-8C68-A88635EA4F87/ReportViewer.exe,10.0.40220,All,No,exe,/q /norestart
 Microsoft Report Viewer,Report Viewer 2015,https://download.microsoft.com/download/A/1/2/A129F694-233C-4C7C-860F-F73139CF2E01/ENU/x86/ReportViewer.msi,12.0.2402.15,All,Yes,msi,/quiet /norestart
-Microsoft Report Viewer,Microsoft® System CLR Types for Microsoft® SQL Server® 2014 (x86),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x86/SQLSysClrTypes.msi,12.0.2402,All,No,msi,/quiet /norestart
-Microsoft Report Viewer,Microsoft® System CLR Types for Microsoft® SQL Server® 2014 (x64),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x64/SQLSysClrTypes.msi,12.0.2402,All,No,msi,/quiet /norestart
+Microsoft Report Viewer,CLR (x86),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x86/SQLSysClrTypes.msi,12.0.2402,All,No,msi,/quiet /norestart
+Microsoft Report Viewer,CLR (x64),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x64/SQLSysClrTypes.msi,12.0.2402,All,No,msi,/quiet /norestart
+Microsoft WebView2,WebView2,https://go.microsoft.com/fwlink/p/?LinkId=2124703,MSSTORE,All,Yes,exe,/silent /install
 Mono Project,Mono (x86),https://download.mono-project.com/archive/6.12.0/windows-installer/mono-6.12.0.199-gtksharp-2.12.45-win32-0.msi,6.12.0,All,Yes,msi,/quiet /norestart
 Mono Project,Mono (x64),https://download.mono-project.com/archive/6.12.0/windows-installer/mono-6.12.0.199-x64-0.msi,6.12.0,All,Yes,msi,/quiet /norestart
 Mono Project,Mono (GTK),https://github.com/mono/gtk-sharp/releases/download/2.12.45/gtk-sharp-2.12.45.msi,6.12.0,All,Yes,msi,/quiet /norestart
 MSXML,MSXML3,https://archive.org/download/msxml3/msxml3.msi,3.7,All,No,msi,/quiet /norestart
 MSXML,MSXML4,https://cdn.discordapp.com/attachments/1120554587758276678/1121897967369076897/msxml.msi,4.30.2100.0,All,No,msi,/quiet /norestart
 NTVDM,OTVDM,https://github.com/otya128/winevdm/releases/download/v0.8.0/otvdm-v0.8.1.zip,0.8.1,x64,Yes,zip,
-NTVDM,NTVDMx64,https://web.archive.org/web/20220401195823if_/http://www.columbia.edu/~em36/ntvdmx64-ccpu-fre.7z,07.04.2023,x64,Yes,7z,
 NVIDIA PhysX Engine,NVIDIA PhysX Engine,https://fr.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe,9.19.0218,All,Yes,exe,-s
 OpenAL,OpenAL,https://www.openal.org/downloads/oalinst.zip,1.1,All,Yes,zip,
 PowerShell,PowerShell (x64),https://github.com/PowerShell/PowerShell/releases/download/v7.3.4/PowerShell-7.3.4-win-x64.msi,7.3.4,x64,Yes,msi,/quiet /norestart
