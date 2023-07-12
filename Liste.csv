@@ -4,7 +4,6 @@ Adobe Player Suite,Adobe Flash Player,https://web.archive.org/web/20230607055952
 Adobe Player Suite,Adobe Shockwave Player,https://archive.org/download/sw_lic_full_installer/sw_lic_full_installer.msi,12.3.5.305,All,No,msi,/quiet /norestart
 Component Explorer Suite,OLEMFCv4,https://svn.reactos.org/packages/OLE2V.EXE,2.0,All,No,EXE,
 DirectX End-User,DirectX,https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe,9.29.1974.1,All,Yes,exe,
-Fonts Suite,Firefox Fira,https://svn.reactos.org/packages/Fira.exe,3.206,All,No,exe,
 Games For Windows Live,Games For Windows Live (Client),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/gfwlclient.msi,3.5.67.0,All,No,msi,/quiet /norestart
 Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/xliveredist.msi,3.5.95.0,All,No,msi,/quiet /norestart
 Graphics Compute Suite,OOCP,https://cdn.discordapp.com/attachments/1120554587758276678/1120789661871259728/D3D.zip,1.2302.1.0,All,Yes,zip,
