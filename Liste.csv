@@ -32,13 +32,13 @@ Microsoft .NET Framework,NET Core (2.2.8),https://download.visualstudio.microsof
 Microsoft .NET Framework,NET Core (2.1.30),https://download.visualstudio.microsoft.com/download/pr/cf7b17e3-ed6d-4ded-8ae6-9f83ffaaca98/9d2ca844baa4a4a9ed83861ffc8e293e/dotnet-hosting-2.1.30-win.exe,2.1.30,All,No,exe,/install /quiet /norestart
 Microsoft .NET Framework,NET Core (2.0.9),https://download.microsoft.com/download/3/a/3/3a3bda26-560d-4d8e-922e-6f6bc4553a84/DotNetCore.2.0.9-WindowsHosting.exe,2.0.9,All,No,exe,/install /quiet /norestart
 Microsoft .NET Framework,NET Core (1.1.13 + 1.0.16),https://download.visualstudio.microsoft.com/download/pr/85188c51-c71f-442e-ae3a-f46449564959/690b9e12e7da159576f67afd986b873d/dotnetcore.1.0.16_1.1.13-windowshosting.exe,1.1.13,All,No,exe,/install /quiet /norestart
-Microsoft Agent,DoubleAgent_x64x86,https://cdn.discordapp.com/attachments/781314468138450946/1128535623066714122/DoubleAgent_x64x86.msi,1.3.0,All,Yes,msi,/quiet /norestart
-Microsoft Agent,Microsoft Agent (Original),https://archive.org/download/microsoft-agent-2.0/MSagent.exe,2.0,All,No,exe,/Q
-Microsoft Agent,Microsoft Agent Patch (Vista),https://archive.org/download/msagent_vista/MSAgent.7z,5.2,All,No,7z,
-Microsoft Agent,Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,exe,/Q
-Microsoft Agent,Speech Recognition Engine,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Recognition%20Engine.exe,4.0,All,No,exe,/Q
-Microsoft Agent,TTS Language,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FTTS%20Engines%2Flemout%20%26%20hauspie%20truvoice%20text-to-speech%20engine%20-%20us%20english.exe,1.0,All,No,exe,/Q
-Microsoft Agent,Characters,https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/MSAgent/chars.zip,1.0,All,No,zip,
+Microsoft Agent,1 Microsoft Agent (Original),https://archive.org/download/microsoft-agent-2.0/MSagent.exe,2.0,All,No,exe,/Q
+Microsoft Agent,2 Microsoft Agent Patch (Vista),https://archive.org/download/msagent_vista/MSAgent.7z,5.2,All,No,7z,
+Microsoft Agent,3 DoubleAgent_x64x86,https://cdn.discordapp.com/attachments/781314468138450946/1128535623066714122/DoubleAgent_x64x86.msi,1.3.0,All,Yes,msi,/quiet /norestart
+Microsoft Agent,4 Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,exe,/Q
+Microsoft Agent,5 Speech Recognition Engine,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Recognition%20Engine.exe,4.0,All,No,exe,/Q
+Microsoft Agent,6 TTS Language,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FTTS%20Engines%2Flemout%20%26%20hauspie%20truvoice%20text-to-speech%20engine%20-%20us%20english.exe,1.0,All,No,exe,/Q
+Microsoft Agent,7 Characters,https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/MSAgent/chars.zip,1.0,All,No,zip,
 Microsoft Jet,Jet 4.0 SP8,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/4/3/9/4393c9ac-e69e-458d-9f6d-2fe191c51469/Jet40SP8_9xNT.exe,4.0.800,All,No,exe,/Q
 Microsoft Layer for Unicode,Microsoft Layer for Unicode,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/b/7/5/b75eace3-00e2-4aa0-9a6f-0b6882c71642/unicows.exe,1.1.3790.0,All,No,exe,
 Microsoft Report Viewer,Report Viewer 2005,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/6/e/d/6eda0f6a-4fb3-4880-bd96-fe71d7c12aa0/ReportViewer.exe,2.0.50727.817,All,No,exe,
