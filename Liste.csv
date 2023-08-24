@@ -43,8 +43,8 @@ Microsoft Agent,7 Characters,https://cdn.discordapp.com/attachments/112596604228
 Microsoft Jet,Jet 4.0 SP8,https://cdn.discordapp.com/attachments/677691873157971968/1144387794022711417/Jet40SP8_9xNT.exe,4.0.800,All,No,exe,/Q
 Microsoft Layer for Unicode,Microsoft Layer for Unicode,https://cdn.discordapp.com/attachments/677691873157971968/1144387793636839464/unicows.exe,1.1.3790.0,All,No,exe,
 Microsoft Report Viewer,Report Viewer 2005,https://cdn.discordapp.com/attachments/677691873157971968/1144387793267736626/ReportViewer.exe,2.0.50727.817,All,No,exe,
-Microsoft Report Viewer,Report Viewer 2008,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/3/a/e/3aeb7a63-ade6-48c2-9b6a-d3b6bed17fe9/ReportViewer.exe,9.0.30729.01,All,No,exe,/q
-Microsoft Report Viewer,Report Viewer 2010,https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/5/B/9/5B95F704-F7E3-440D-8C68-A88635EA4F87/ReportViewer.exe,10.0.40220,All,No,exe,/q /norestart
+Microsoft Report Viewer,Report Viewer 2008,https://cdn.discordapp.com/attachments/677691873157971968/1144389059062550639/ReportViewer_1.exe,9.0.30729.01,All,No,exe,/q
+Microsoft Report Viewer,Report Viewer 2010,https://cdn.discordapp.com/attachments/677691873157971968/1144389058697637958/ReportViewer.exe,10.0.40220,All,No,exe,/q /norestart
 Microsoft Report Viewer,CLR (x64),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x64/SQLSysClrTypes.msi,12.0.2402,All,No,msi,/quiet /norestart
 Microsoft Report Viewer,CLR (x86),https://download.microsoft.com/download/1/3/0/13089488-91FC-4E22-AD68-5BE58BD5C014/ENU/x86/SQLSysClrTypes.msi,12.0.2402,All,No,msi,/quiet /norestart
 Microsoft Report Viewer,Report Viewer 2015,https://download.microsoft.com/download/A/1/2/A129F694-233C-4C7C-860F-F73139CF2E01/ENU/x86/ReportViewer.msi,12.0.2402.15,All,Yes,msi,/quiet /norestart
