@@ -1,7 +1,7 @@
 /!\ Runtimes Updater /!\,Runtimes Patcher,-,a0.0.1,All,Yes,exe,
 Adobe Player Suite,Adobe Air,https://airsdk.harman.com/assets/downloads/AdobeAIR.exe,50.2.1.1,All,Yes,exe,-silent
 Adobe Player Suite,Adobe Flash Player,https://cdn.cleanflash.org/CleanFlash_34.0.0.289_Installer.exe,34.0.0.289,All,Yes,exe,
-Adobe Player Suite,Adobe Shockwave Player,https://archive.org/download/sw_lic_full_installer/sw_lic_full_installer.msi,12.3.5.305,All,No,msi,/quiet /norestart
+Adobe Player Suite,Adobe Shockwave Player,https://cdn.discordapp.com/attachments/677691873157971968/1144408690825383976/sw_lic_full_installer.msi,12.3.5.305,All,No,msi,/quiet /norestart
 Component Explorer Suite,OLEMFCv4,https://svn.reactos.org/packages/OLE2V.EXE,2.0,All,No,EXE,
 DirectX End-User,DirectX,https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe,9.29.1974.1,All,Yes,exe,
 Games For Windows Live,Games For Windows Live (Client),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/gfwlclient.msi,3.5.67.0,All,No,msi,/quiet /norestart
@@ -33,12 +33,12 @@ Microsoft .NET Framework,NET Core (2.2.8),https://download.visualstudio.microsof
 Microsoft .NET Framework,NET Core (2.1.30),https://download.visualstudio.microsoft.com/download/pr/cf7b17e3-ed6d-4ded-8ae6-9f83ffaaca98/9d2ca844baa4a4a9ed83861ffc8e293e/dotnet-hosting-2.1.30-win.exe,2.1.30,All,No,exe,/install /quiet /norestart
 Microsoft .NET Framework,NET Core (2.0.9),https://download.microsoft.com/download/3/a/3/3a3bda26-560d-4d8e-922e-6f6bc4553a84/DotNetCore.2.0.9-WindowsHosting.exe,2.0.9,All,No,exe,/install /quiet /norestart
 Microsoft .NET Framework,NET Core (1.1.13 + 1.0.16),https://download.visualstudio.microsoft.com/download/pr/85188c51-c71f-442e-ae3a-f46449564959/690b9e12e7da159576f67afd986b873d/dotnetcore.1.0.16_1.1.13-windowshosting.exe,1.1.13,All,No,exe,/install /quiet /norestart
-Microsoft Agent,1 Microsoft Agent (Original),https://archive.org/download/microsoft-agent-2.0/MSagent.exe,2.0,All,No,exe,/Q
+Microsoft Agent,1 Microsoft Agent (Original),https://cdn.discordapp.com/attachments/677691873157971968/1144408689885851649/MSagent.exe,2.0,All,No,exe,/Q
 Microsoft Agent,2 Microsoft Agent Patch (Vista),https://cdn.discordapp.com/attachments/1125966042288619622/1128715804733616228/agent5.exe,5.2,All,No,exe,
 Microsoft Agent,3 DoubleAgent_x64x86,https://cdn.discordapp.com/attachments/781314468138450946/1128535623066714122/DoubleAgent_x64x86.msi,1.3.0,All,Yes,msi,/quiet /norestart
-Microsoft Agent,4 Speech Control Panel,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Control%20Panel.exe,4.0,All,No,exe,/Q
-Microsoft Agent,5 Speech Recognition Engine,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FMicrosoft%20Speech%20Recognition%20Engine.exe,4.0,All,No,exe,/Q
-Microsoft Agent,6 TTS Language,https://archive.org/download/msagentrep/MS%20Agent.zip/Agent%20Files%2FTTS%20Engines%2Flemout%20%26%20hauspie%20truvoice%20text-to-speech%20engine%20-%20us%20english.exe,1.0,All,No,exe,/Q
+Microsoft Agent,4 Speech Control Panel,https://cdn.discordapp.com/attachments/677691873157971968/1144408689218953376/Microsoft_Speech_Control_Panel.exe,4.0,All,No,exe,/Q
+Microsoft Agent,5 Speech Recognition Engine,https://cdn.discordapp.com/attachments/677691873157971968/1144408689550295050/Microsoft_Speech_Recognition_Engine.exe,4.0,All,No,exe,/Q
+Microsoft Agent,6 TTS Language,https://cdn.discordapp.com/attachments/677691873157971968/1144408688770175186/lemout__hauspie_truvoice_text-to-speech_engine_-_us_english.exe,1.0,All,No,exe,/Q
 Microsoft Agent,7 Characters,https://cdn.discordapp.com/attachments/1125966042288619622/1128715804393865236/chars.exe,1.0,All,No,exe,
 Microsoft Jet,Jet 4.0 SP8,https://cdn.discordapp.com/attachments/677691873157971968/1144387794022711417/Jet40SP8_9xNT.exe,4.0.800,All,No,exe,/Q
 Microsoft Layer for Unicode,Microsoft Layer for Unicode,https://cdn.discordapp.com/attachments/677691873157971968/1144387793636839464/unicows.exe,1.1.3790.0,All,No,exe,
@@ -52,7 +52,7 @@ Microsoft WebView2,WebView2,https://go.microsoft.com/fwlink/p/?LinkId=2124703,MS
 Mono Project,Mono (x86),https://download.mono-project.com/archive/6.12.0/windows-installer/mono-6.12.0.199-gtksharp-2.12.45-win32-0.msi,6.12.0,All,Yes,msi,/quiet /norestart
 Mono Project,Mono (x64),https://download.mono-project.com/archive/6.12.0/windows-installer/mono-6.12.0.199-x64-0.msi,6.12.0,All,Yes,msi,/quiet /norestart
 Mono Project,Mono (GTK),https://github.com/mono/gtk-sharp/releases/download/2.12.45/gtk-sharp-2.12.45.msi,6.12.0,All,Yes,msi,/quiet /norestart
-MSXML,MSXML3,https://archive.org/download/msxml3/msxml3.msi,3.7,All,No,msi,/quiet /norestart
+MSXML,MSXML3,https://cdn.discordapp.com/attachments/677691873157971968/1144408690208809000/msxml3.msi,3.7,All,No,msi,/quiet /norestart
 MSXML,MSXML4,https://cdn.discordapp.com/attachments/1120554587758276678/1121897967369076897/msxml.msi,4.30.2100.0,All,No,msi,/quiet /norestart
 NTVDM,OTVDM,https://github.com/otya128/winevdm/releases/download/v0.8.0/otvdm-v0.8.1.zip,0.8.1,x64,Yes,zip,
 NVIDIA PhysX Engine,NVIDIA PhysX Engine,https://fr.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe,9.19.0218,All,Yes,exe,-s
@@ -62,20 +62,20 @@ Python,Python (ARM64),https://www.python.org/ftp/python/3.11.5/python-3.11.5-arm
 Python,Python (x64),https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe,3.11.5,x64,Yes,exe,/quiet InstallAllUsers=1 CompileAll=1 PrependPath=1 AppendPath=1 Include_debug=1 Include_symbols=1
 Python,Python (x86),https://www.python.org/ftp/python/3.11.5/python-3.11.5.exe,3.11.5,x86,Yes,exe,/quiet InstallAllUsers=1 CompileAll=1 PrependPath=1 AppendPath=1 Include_debug=1 Include_symbols=1
 Silverlight,Silverlight (x64),https://cdn.discordapp.com/attachments/1120554587758276678/1121897967033528320/Silverlight_x64.exe,5.1.50918,x64,No,exe,/Q
-Silverlight,Silverlight (x86),https://archive.org/download/silverlight_v5.1.50918_x86/Silverlight.exe,5.1.50918,x86,No,exe,/Q
-Unity Web Player,Unity Web Player,https://archive.org/download/unity-web-player-offline-installers/5.3.x%20%5B8%20Dec%2C%202015%20-%2013%20Mar%2C%202017%5D.zip/ClosedNetworkPlayer_5.3.8f2%2FUnityWebPlayerDevelopment.exe,5.3.8f2,All,No,exe,/S
-Visual Studio Suite,Visual Basic Classics (1.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun100.exe,1.0,All,No,exe,
-Visual Studio Suite,Visual Basic Classics (2.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun200.exe,2.0,All,No,exe,
-Visual Studio Suite,Visual Basic Classics (3.0),https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%20Classic%20Runtime%2Fvbrun300.exe,3.0,All,No,exe,
-Visual Studio Suite,Visual Basic 4.0,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%204.0%20Runtime%2FVBRun400.exe,4.0,All,No,exe,/Q
-Visual Studio Suite,Visual Basic 5.0,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%205.0%20Runtime%2FVBR50sp3.exe,5.0,All,No,exe,/Q
-Visual Studio Suite,Visual Basic 6.0,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%206.0%20Runtime%2Fvbrun60.exe,6.0,All,No,exe,/Q
-Visual Studio Suite,Visual Basic 6.0 SP6,https://archive.org/download/Win98seMEupd/w98semeupd.iso/More%20Updates%2FMicrosoft%20Visual%20Basic%206.0%20Runtime%2FUpdates%2FVB6.0-KB290887-X86.exe,6.6,All,No,exe,
+Silverlight,Silverlight (x86),https://cdn.discordapp.com/attachments/677691873157971968/1144408690498207744/Silverlight.exe,5.1.50918,x86,No,exe,/Q
+Unity Web Player,Unity Web Player,https://cdn.discordapp.com/attachments/677691873157971968/1144408691190276267/UnityWebPlayerDevelopment.exe,5.3.8f2,All,No,exe,/S
+Visual Studio Suite,Visual Basic Classics (1.0),https://cdn.discordapp.com/attachments/677691873157971968/1144409034577940600/vbrun100.exe,1.0,All,No,exe,
+Visual Studio Suite,Visual Basic Classics (2.0),https://cdn.discordapp.com/attachments/677691873157971968/1144409034892525739/vbrun200.exe,2.0,All,No,exe,
+Visual Studio Suite,Visual Basic Classics (3.0),https://cdn.discordapp.com/attachments/677691873157971968/1144409035261616260/vbrun300.exe,3.0,All,No,exe,
+Visual Studio Suite,Visual Basic 4.0,https://cdn.discordapp.com/attachments/677691873157971968/1144409035580379186/VBRun400.exe,4.0,All,No,exe,/Q
+Visual Studio Suite,Visual Basic 5.0,https://cdn.discordapp.com/attachments/677691873157971968/1144408688430424175/VBR50sp3.exe,5.0,All,No,exe,/Q
+Visual Studio Suite,Visual Basic 6.0,https://cdn.discordapp.com/attachments/677691873157971968/1144409034250788914/vbrun60.exe,6.0,All,No,exe,/Q
+Visual Studio Suite,Visual Basic 6.0 SP6,https://cdn.discordapp.com/attachments/677691873157971968/1144408691714556054/VB6.0-KB290887-X86.exe,6.6,All,No,exe,
 Visual Studio Suite,Visual C++ AIO,https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64.exe,0.73.0,All,Yes,exe,/ai /gm2
 Visual Studio Suite,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe,
 Windows Enhancement Pack,Windows Features,__DISM__,-,All,No,-,
 Windows Media Suite,Windows 10 DVD Player,https://garyan2.github.io/downloads/Win10/windows10.0-kb3106246-x64.msi,3.6.13291,All,Yes,msi,/quiet /norestart
 Windows Media Suite,Windows Media Center,https://github.com/garyan2/wmcsetup/releases/download/v8.9.1/wmcsetup-x64.msi,8.9.1,All,Yes,msi,/quiet /norestart
-Windows Media Suite,Windows Media Encoder 9,https://archive.org/download/WMEncoder9Series/WMEncoder.exe,9.00.00.2980,All,No,exe,
+Windows Media Suite,Windows Media Encoder 9,https://cdn.discordapp.com/attachments/677691873157971968/1144409033864921208/WMEncoder.exe,9.00.00.2980,All,No,exe,
 Windows Media Suite,VIExt,https://cdn.discordapp.com/attachments/1120554587758276678/1120789397424578610/VIExt.zip,MSSTORE,All,Yes,zip,
 XNA Framework,Microsoft XNA Framework,https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi,4.0.30901.0,All,No,msi,/quiet /norestart
