@@ -34,12 +34,11 @@ Microsoft .NET Framework,NET Core (2.1.30),https://download.visualstudio.microso
 Microsoft .NET Framework,NET Core (2.0.9),https://download.microsoft.com/download/3/a/3/3a3bda26-560d-4d8e-922e-6f6bc4553a84/DotNetCore.2.0.9-WindowsHosting.exe,2.0.9,All,No,exe,/install /quiet /norestart
 Microsoft .NET Framework,NET Core (1.1.13 + 1.0.16),https://download.visualstudio.microsoft.com/download/pr/85188c51-c71f-442e-ae3a-f46449564959/690b9e12e7da159576f67afd986b873d/dotnetcore.1.0.16_1.1.13-windowshosting.exe,1.1.13,All,No,exe,/install /quiet /norestart
 Microsoft Agent,1 Microsoft Agent (Original),https://cdn.discordapp.com/attachments/677691873157971968/1144408689885851649/MSagent.exe,2.0,All,No,exe,/Q
-Microsoft Agent,2 Microsoft Agent Patch (Vista),https://cdn.discordapp.com/attachments/1125966042288619622/1128715804733616228/agent5.exe,5.2,All,No,exe,
+Microsoft Agent,2 Microsoft Agent Patch (Vista),https://cdn.discordapp.com/attachments/1011464191829360733/1147630804185391126/Agent.exe,6.1.7600.16426,All,No,exe,
 Microsoft Agent,3 DoubleAgent_x64x86,https://cdn.discordapp.com/attachments/781314468138450946/1128535623066714122/DoubleAgent_x64x86.msi,1.3.0,All,Yes,msi,/quiet /norestart
 Microsoft Agent,4 Speech Control Panel,https://cdn.discordapp.com/attachments/677691873157971968/1144408689218953376/Microsoft_Speech_Control_Panel.exe,4.0,All,No,exe,/Q
 Microsoft Agent,5 Speech Recognition Engine,https://cdn.discordapp.com/attachments/677691873157971968/1144408689550295050/Microsoft_Speech_Recognition_Engine.exe,4.0,All,No,exe,/Q
 Microsoft Agent,6 TTS Language,https://cdn.discordapp.com/attachments/677691873157971968/1144408688770175186/lemout__hauspie_truvoice_text-to-speech_engine_-_us_english.exe,1.0,All,No,exe,/Q
-Microsoft Agent,7 Characters,https://cdn.discordapp.com/attachments/1125966042288619622/1128715804393865236/chars.exe,1.0,All,No,exe,
 Microsoft Jet,Jet 4.0 SP8,https://cdn.discordapp.com/attachments/677691873157971968/1144387794022711417/Jet40SP8_9xNT.exe,4.0.800,All,No,exe,/Q
 Microsoft Layer for Unicode,Microsoft Layer for Unicode,https://cdn.discordapp.com/attachments/677691873157971968/1144387793636839464/unicows.exe,1.1.3790.0,All,No,exe,
 Microsoft Report Viewer,Report Viewer 2005,https://cdn.discordapp.com/attachments/677691873157971968/1144387793267736626/ReportViewer.exe,2.0.50727.817,All,No,exe,
