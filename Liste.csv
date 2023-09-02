@@ -6,7 +6,7 @@ Component Explorer Suite,OLEMFCv4,https://svn.reactos.org/packages/OLE2V.EXE,2.0
 DirectX End-User,DirectX,https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe,9.29.1974.1,All,Yes,exe,
 Games For Windows Live,Games For Windows Live (Client),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/gfwlclient.msi,3.5.67.0,All,No,msi,/quiet /norestart
 Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/xliveredist.msi,3.5.95.0,All,No,msi,/quiet /norestart
-Graphics Compute Suite,OOCP,https://cdn.discordapp.com/attachments/1120554587758276678/1120789661871259728/D3D.zip,1.2302.1.0,All,Yes,zip,
+Graphics Compute Suite,OOCP,https://cdn.discordapp.com/attachments/677691873157971968/1147554518503014530/OOCP.zip,1.2302.1.0,All,Yes,zip,
 Graphics Compute Suite,Mesa3D,https://svn.reactos.org/packages/mesa3d_setup.exe,14.03.2017,All,No,exe,
 Graphics Compute Suite,Vulkan,https://cdn.discordapp.com/attachments/1125966042288619622/1128730358771359744/VulkanRT-Installer.exe,1.0.11.1,All,Yes,exe,/S
 Java JRE,Java JRE (x64),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248774_8c876547113c4e4aab3c868e9e0ec572,8u381,All,Yes,exe,/s
