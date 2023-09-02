@@ -8,7 +8,7 @@ Games For Windows Live,Games For Windows Live (Client),https://cdn.githubraw.com
 Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/xliveredist.msi,3.5.95.0,All,No,msi,/quiet /norestart
 Graphics Compute Suite,OOCP,https://cdn.discordapp.com/attachments/677691873157971968/1147554518503014530/OOCP.zip,1.2302.1.0,All,Yes,zip,
 Graphics Compute Suite,Mesa3D,https://svn.reactos.org/packages/mesa3d_setup.exe,14.03.2017,All,No,exe,
-Graphics Compute Suite,Vulkan,https://cdn.discordapp.com/attachments/1125966042288619622/1128730358771359744/VulkanRT-Installer.exe,1.0.11.1,All,Yes,exe,/S
+Graphics Compute Suite,Vulkan,https://sdk.lunarg.com/sdk/download/latest/windows/vulkan-runtime.exe,1.3.261.1,All,Yes,exe,/S
 Java JRE,Java JRE (x64),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248774_8c876547113c4e4aab3c868e9e0ec572,8u381,All,Yes,exe,/s
 Java JRE,Java JRE (x86),https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248772_8c876547113c4e4aab3c868e9e0ec572,8u381,All,Yes,exe,/s
 Microsoft .NET Framework,NET Framework (7.0.10),https://download.visualstudio.microsoft.com/download/pr/d489c5d0-4d0f-4622-ab93-b0f2a3e92eed/101a2fae29a291956d402377b941f401/dotnet-hosting-7.0.10-win.exe,7.0.10,All,Yes,exe,/install /quiet /norestart
