@@ -56,7 +56,7 @@ MSXML,MSXML4,https://cdn.discordapp.com/attachments/1120554587758276678/11218979
 NTVDM,OTVDM,https://github.com/otya128/winevdm/releases/download/v0.8.0/otvdm-v0.8.1.zip,0.8.1,x64,Yes,zip,
 NVIDIA PhysX Engine,NVIDIA PhysX Engine,https://fr.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe,9.19.0218,All,Yes,exe,-s
 OpenAL,OpenAL,https://www.openal.org/downloads/oalinst.zip,1.1,All,Yes,zip,
-PowerShell,PowerShell (x64),https://cdn.discordapp.com/attachments/781314468138450946/1128522636008362034/Microsoft.PowerShell_2023.623.206.0_neutral__8wekyb3d8bbwe.Msixbundle,7.3.4,x64,Yes,appx,
+PowerShell,PowerShell,https://cdn.discordapp.com/attachments/781314468138450946/1128522636008362034/Microsoft.PowerShell_2023.623.206.0_neutral__8wekyb3d8bbwe.Msixbundle,7.3.4,x64,Yes,appx,
 Python,Python (ARM64),https://www.python.org/ftp/python/3.11.5/python-3.11.5-arm64.exe,3.11.5,ARM64,Yes,exe,/quiet InstallAllUsers=1 CompileAll=1 PrependPath=1 AppendPath=1 Include_debug=1 Include_symbols=1
 Python,Python (x64),https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe,3.11.5,x64,Yes,exe,/quiet InstallAllUsers=1 CompileAll=1 PrependPath=1 AppendPath=1 Include_debug=1 Include_symbols=1
 Python,Python (x86),https://www.python.org/ftp/python/3.11.5/python-3.11.5.exe,3.11.5,x86,Yes,exe,/quiet InstallAllUsers=1 CompileAll=1 PrependPath=1 AppendPath=1 Include_debug=1 Include_symbols=1
