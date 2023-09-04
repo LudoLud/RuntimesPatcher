@@ -76,5 +76,5 @@ Windows Enhancement Pack,Windows Features,__DISM__,-,All,No,-,
 Windows Media Suite,Windows 10 DVD Player,https://garyan2.github.io/downloads/Win10/windows10.0-kb3106246-x64.msi,3.6.13291,All,Yes,msi,/quiet /norestart
 Windows Media Suite,Windows Media Center,https://github.com/garyan2/wmcsetup/releases/download/v8.9.1/wmcsetup-x64.msi,8.9.1,All,Yes,msi,/quiet /norestart
 Windows Media Suite,Windows Media Encoder 9,https://cdn.discordapp.com/attachments/677691873157971968/1144409033864921208/WMEncoder.exe,9.00.00.2980,All,No,exe,
-Windows Media Suite,VIExt,https://cdn.discordapp.com/attachments/1120554587758276678/1120789397424578610/VIExt.zip,MSSTORE,All,Yes,zip,
+Windows Media Suite,VIExt,https://cdn.discordapp.com/attachments/677691873157971968/1148307970023764048/VIExt.zip,MSSTORE,All,Yes,zip,
 XNA Framework,Microsoft XNA Framework,https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi,4.0.30901.0,All,No,msi,/quiet /norestart
