@@ -4,8 +4,8 @@ Adobe Player Suite,Adobe Flash Player,https://cdn.cleanflash.org/CleanFlash_34.0
 Adobe Player Suite,Adobe Shockwave Player,https://cdn.discordapp.com/attachments/677691873157971968/1144408690825383976/sw_lic_full_installer.msi,12.3.5.305,All,No,msi,/quiet /norestart
 Component Explorer Suite,OLEMFCv4,https://svn.reactos.org/packages/OLE2V.EXE,2.0,All,No,EXE,
 DirectX End-User,DirectX,https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe,9.29.1974.1,All,Yes,exe,
-Games For Windows Live,Games For Windows Live (Client),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/gfwlclient.msi,3.5.67.0,All,No,msi,/quiet /norestart
-Games For Windows Live,Games For Windows Live (Redist),https://cdn.githubraw.com/LudoLud/RuntimesPatcher/main/Runtimes/GFWL/xliveredist.msi,3.5.95.0,All,No,msi,/quiet /norestart
+Games For Windows Live,Games For Windows Live (Client),https://cdn.discordapp.com/attachments/677691873157971968/1148361985654796358/gfwlclient.msi,3.5.67.0,All,No,msi,/quiet /norestart
+Games For Windows Live,Games For Windows Live (Redist),https://cdn.discordapp.com/attachments/677691873157971968/1148361985302482995/xliveredist.msi,3.5.95.0,All,No,msi,/quiet /norestart
 Graphics Compute Suite,OOCP,https://cdn.discordapp.com/attachments/677691873157971968/1147554518503014530/OOCP.zip,1.2302.1.0,All,Yes,zip,
 Graphics Compute Suite,Mesa3D,https://svn.reactos.org/packages/mesa3d_setup.exe,14.03.2017,All,No,exe,
 Graphics Compute Suite,Vulkan,https://sdk.lunarg.com/sdk/download/latest/windows/vulkan-runtime.exe,1.3.261.1,All,Yes,exe,/S
