@@ -70,7 +70,7 @@ Visual Studio Suite,Visual Basic 4.0,https://cdn.discordapp.com/attachments/6776
 Visual Studio Suite,Visual Basic 5.0,https://cdn.discordapp.com/attachments/677691873157971968/1144408688430424175/VBR50sp3.exe,5.0,All,No,exe,/Q
 Visual Studio Suite,Visual Basic 6.0,https://cdn.discordapp.com/attachments/677691873157971968/1144409034250788914/vbrun60.exe,6.0,All,No,exe,/Q
 Visual Studio Suite,Visual Basic 6.0 SP6,https://cdn.discordapp.com/attachments/677691873157971968/1144408691714556054/VB6.0-KB290887-X86.exe,6.6,All,No,exe,
-Visual Studio Suite,Visual C++ AIO,https://github.com/abbodi1406/vcredist/releases/download/v0.73.0/VisualCppRedist_AIO_x86_x64.exe,0.73.0,All,Yes,exe,/ai /gm2
+Visual Studio Suite,Visual C++ AIO,https://github.com/abbodi1406/vcredist/releases/download/v0.75.0/VisualCppRedist_AIO_x86_x64.exe,0.75.0,All,Yes,exe,/ai /gm2
 Visual Studio Suite,Visual J# Redistributable,https://download.microsoft.com/download/9/a/0/9a01eb1e-fe80-41af-a3f8-ea41220918f7/vjredist.exe,2.0,All,No,exe,
 Windows Enhancement Pack,Windows Features,__DISM__,-,All,No,-,
 Windows Media Suite,Windows 10 DVD Player,https://garyan2.github.io/downloads/Win10/windows10.0-kb3106246-x64.msi,3.6.13291,All,Yes,msi,/quiet /norestart
